@@ -1,4 +1,5 @@
-# Anthony Mason CMSC 320 Final Project
+# CMSC 320 Final Project
+## Anthony Mason
 ## COVID-19 Dataset Analysis
 
 ## Notebook
