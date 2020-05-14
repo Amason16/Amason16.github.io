@@ -1,5 +1,5 @@
-# Amason16.github.io
-## UMD CMSC 320 Project Repository
+# Anthony Mason CMSC 320 Final Project
+## COVID-19 Dataset Analysis
 
 ## Notebook
 FinalProject.ipynb
